@@ -73,7 +73,7 @@ Course: Network Application Programming (ISE_F25_NAP_C1) – Syrian Virtual Univ
 | Mohammad Ghaleb Nasri (محمد غالب نصري) | Mhd.ghaleb_28497 | Server: UDP media relay (`UdpMediaRelay`), shared packet format, multithreading |
 | Yasen Alalabi (ياسين العلبي) | Yasen_96832 | Client: console UI, `ChatClient` (TCP), audio capture/playback (NAudio) |
 | Khaled Arar (خالد عرار) | Khaled_84196 | Client: video capture/fragmentation/display (OpenCvSharp), testing, README/CHANGELOG |
-| ahmad Alfayome (احمد الفيومي) | ahmad_21895 | 
+| Ahmad Alfayoumi (احمد الفيومي) | ahmad_21859 | Server and client side testing and debugging.
 > Update this table to match what each member actually did (see the commit history).
 
 ## Testing
